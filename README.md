@@ -47,5 +47,4 @@ run [create_embedding.sh](create_embedding.sh) and then [visualize_song_embeddin
 [song_embedding](assets/tsne_color_artist_id_1500.png)
 
 ### analysis singer' identity"ali_music_analyses" 
-"ali_music_analyses" 
-ali_music_analyses
+run [analyse_singer_info.ipynb](analyse_singer_info.ipynb)
