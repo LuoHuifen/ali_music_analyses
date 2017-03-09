@@ -33,18 +33,18 @@ This is needed for word embedding of songs, download it [here](https://github.co
 ### Plot artist daily information
 run [artist_daily_info.ipynb](artist_daily_info.ipynb)
 
-[artist_daily_info](assets/artist_daily_info.png)
-[artist_daily_info_decomposition](assets/artist_daily_info_decomposition.png)
+![artist_daily_info](assets/artist_daily_info.png)
+![artist_daily_info_decomposition](assets/artist_daily_info_decomposition.png)
 
 ### Plot user daily information
 run [user_daily_info.ipynb](user_daily_info.ipynb)
 
-[user_daily_info](assets/user_daily_info.png)
+![user_daily_info](assets/user_daily_info.png)
 
 ### Plot word embedding of songs
 run [create_embedding.sh](create_embedding.sh) and then [visualize_song_embedding.ipynb](visualize_song_embedding.ipynb)
 
-[song_embedding](assets/tsne_color_artist_id_1500.png)
+![song_embedding](assets/tsne_color_artist_id_1500.png)
 
 ### Analysis singers' identity
 run [analyse_singer_info.ipynb](analyse_singer_info.ipynb)
